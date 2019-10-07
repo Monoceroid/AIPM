@@ -4,5 +4,6 @@ int main(void)
 {
    printf("Hello, World! I am the AI PM!");
    printf("I am more accomplished than any human PM could ever be!");
+   printf("I'm running out of things to say now...");
    return (0);
 }
